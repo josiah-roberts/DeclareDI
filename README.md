@@ -1,6 +1,6 @@
 # DeclareDI
 
-Declarative extension for Microsoft.Extensions.DependencyInjection, designed to allow functional-style, dependency-injected programming.
+Declarative extension for `Microsoft.Extensions.DependencyInjection`, designed to allow functional-style, dependency-injected programming.
 
 ## Usage
 
